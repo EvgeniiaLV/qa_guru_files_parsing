@@ -37,20 +37,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.FilesParsingTests.csvFileParsingTest.executor": "Run",
-    "Gradle.FilesParsingTests.executor": "Run",
-    "Gradle.FilesParsingTests.jsonFileParsingCustomerMaster.executor": "Run",
-    "Gradle.FilesParsingTests.pdfFileParsingTest.executor": "Run",
-    "Gradle.FilesParsingTests.xlsxFileParsingTest.executor": "Run",
-    "Gradle.FilesParsingTests.zipFileParsingTest.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.FilesParsingTests.csvFileParsingTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FilesParsingTests.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FilesParsingTests.jsonFileParsingCustomerMaster.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FilesParsingTests.pdfFileParsingTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FilesParsingTests.xlsxFileParsingTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FilesParsingTests.zipFileParsingTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Evgeniia\IdeaProjects\JavaFilesTesting\src\test\resources" />
