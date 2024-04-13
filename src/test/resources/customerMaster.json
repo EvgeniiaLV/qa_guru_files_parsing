@@ -1,0 +1,16 @@
+{
+  "CustomerNumber": "0123456789",
+  "countryKey": 145,
+  "name": "Cats company",
+  "phoneNumber": "89012419014",
+  "address": {
+    "city": "Moscow",
+    "postalCode": "115304",
+    "houseNumberAndStreet": "Somewhere in the city, 109/7"
+  },
+  "industryCodes": [
+    "00000001",
+    "00000057",
+    "00000102"
+  ]
+}
