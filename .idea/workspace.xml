@@ -4,29 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94605acd-b20f-4b23-8596-a80a8e5b2aa5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Utils/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Utils/TestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/FilesParsingTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/model/CustomerAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/customerData.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/customerMaster.json" afterDir="false" />
+    <list default="true" id="94605acd-b20f-4b23-8596-a80a8e5b2aa5" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,25 +37,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.FilesParsingTests.csvFileParsingTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FilesParsingTests.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FilesParsingTests.jsonFileParsingCustomerMaster.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FilesParsingTests.pdfFileParsingTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FilesParsingTests.xlsxFileParsingTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FilesParsingTests.zipFileParsingTest.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.FilesParsingTests.csvFileParsingTest.executor": "Run",
+    "Gradle.FilesParsingTests.executor": "Run",
+    "Gradle.FilesParsingTests.jsonFileParsingCustomerMaster.executor": "Run",
+    "Gradle.FilesParsingTests.pdfFileParsingTest.executor": "Run",
+    "Gradle.FilesParsingTests.xlsxFileParsingTest.executor": "Run",
+    "Gradle.FilesParsingTests.zipFileParsingTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Evgeniia\IdeaProjects\JavaFilesTesting\src\test\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.FilesParsingTests.jsonFileParsingCustomerMaster">
+  <component name="RunManager" selected="Gradle.FilesParsingTests">
     <configuration name="FilesParsingTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -198,8 +179,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.FilesParsingTests.jsonFileParsingCustomerMaster" />
         <item itemvalue="Gradle.FilesParsingTests" />
+        <item itemvalue="Gradle.FilesParsingTests.jsonFileParsingCustomerMaster" />
         <item itemvalue="Gradle.FilesParsingTests.csvFileParsingTest" />
         <item itemvalue="Gradle.FilesParsingTests.zipFileParsingTest" />
         <item itemvalue="Gradle.FilesParsingTests.xlsxFileParsingTest" />
@@ -222,6 +203,30 @@
       <option name="presentableId" value="Default" />
       <updated>1712823630421</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1713002958436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713002958436</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
